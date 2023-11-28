@@ -7,10 +7,12 @@ pyrogram>=2.0.30
  requests 
  bs4 
  git+https://github.com/Joelkb/cinemagoer 
+ psutil==5.9.4
  shortzy 
  datetime 
  pytz 
  aiohttp
+ python-dotenv
 
 #---master---# 
  #Telethroid==0.0.10 
@@ -25,7 +27,8 @@ youtube-search-python==1.4.6
 yt-dlp
 youtube-dl
 requests 
-  
+  
+
   
  #---others----# 
  opencv-python-headless==4.7.0.68 
